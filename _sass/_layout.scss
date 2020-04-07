@@ -28,7 +28,6 @@ a,
 a:visited {
   color: $link-color;
   text-decoration: underline;
-  font-weight: bold;
 }
 a:hover {
   color: $link-hover-color;
@@ -37,12 +36,12 @@ a:hover {
 main {
   padding: 0 15px;
   max-width: $content-width;
-  margin: $nav-height + $padding-1 auto;
+  margin: ($nav-height + ($padding-1 * 2)) auto;
 }
 .container {
 
   max-width: $content-width;
-  margin: 0 auto;
+  margin: 0 auto $padding-1 * 2;
 }
 
 /* Nav */
@@ -55,8 +54,8 @@ main {
     background: #fff;
     width: 100%;
     z-index: 2;
-    border-bottom: 1px solid lighten($light, 30%);
-    box-shadow: 0px 1px 1px RGBA(4, 25, 54, 0.1);
+    border-bottom: 1.5px solid $light;
+    // box-shadow: 0px 1px 1px RGBA(4, 25, 54, 0.1);
     .nav-container {
         height: 100%;
         display: flex;
@@ -93,7 +92,38 @@ main {
         }
     }
 }
-footer {
-    text-align: center;
-    padding: 40px;
+
+/* Footer */
+
+.footer-container {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    border-top: 1.5px solid $light;
+    footer {
+        max-width: $content-width;
+        padding: $padding-1 * 2;
+        margin: 0 auto;
+        .social-links {
+            display: flex;
+            justify-content: space-around;
+            .social-link {
+                display: flex;
+                align-items: center;
+                i {
+                    color: darken($light, 50%);
+                    padding-top: 4px;
+                }
+                a {
+                    color: $link-hover-color;
+                    text-decoration: none;
+                    font-size: 1rem;
+                    padding: 0 8px;
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
 }
