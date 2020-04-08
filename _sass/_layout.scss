@@ -151,7 +151,7 @@ main {
         margin: 0 auto;
         border-radius: 50%;
         border: 1.5px solid black;
-        box-shadow: 0px 0px 0px gray;
+        box-shadow: 0px 0px 0px lightgray;
         margin-bottom: $padding-1 * 3;
         transition: top 0.1s, 
                     box-shadow 0.1s,
@@ -159,8 +159,8 @@ main {
                     height 0.1s,
                     margin-bottom 0.1s;
         &:hover {
-            top: -6px;
-            box-shadow: 0px 6px 6px gray;
+            top: -2px;
+            box-shadow: 0px 10px 10px lightgray;
             width: 204px;
             height: 204px;
             margin-bottom: (($padding-1 * 3) - 4px);
@@ -171,6 +171,31 @@ main {
             width: 100%;
             height: 100%;
             border-radius: 50%;
+        }
+    }
+}
+
+/* Article Index */
+
+.article-index-container {
+    width: $content-width;
+    height: 400px;
+    .thumbnail-container {
+        position: relative;
+        width: 50%;
+        min-width: 400px;
+        height: 100%;
+        h1 {
+            position: relative;
+            z-index: 1;
+        }
+        img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
     }
 }
