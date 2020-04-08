@@ -1,3 +1,5 @@
+# permalink: pretty
+
 title: Jade K
 email: jadeaudreyking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -13,6 +15,7 @@ collections:
     output: true
   photography:
     output: true
+
 
 # Build settings
 plugins:

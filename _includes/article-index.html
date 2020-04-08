@@ -5,7 +5,7 @@
             {% for doc in collection.docs %}
                 <div class="article-index-container">
                     <div class="thumbnail-container">
-                        <h1>{{ doc.title }}</h1>
+                        <h1>{{ doc.title }}{{ forloop.index }}</h1>
                         <img src="{{ site.baseurl }}{{ doc.thumbnail }}" alt="">
                     </div>
                     {% if page.has-excerpt %}
