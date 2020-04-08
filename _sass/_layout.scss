@@ -1,38 +1,38 @@
 body {
-  margin: 0;
-  color: $font-color;
-  font-family: $font-style;
-  font-size: 1.1em;
-  line-height: 1.6;
-  -webkit-font-smoothing: antialiased;
+    margin: 0;
+    color: $font-color;
+    font-family: $font-style;
+    font-size: 1.1em;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
 }
 h1,
 h2,
 h3 {
-  font-weight: 600;
-  color: $heading-font-color;
-  font-family: $heading-font;
-  line-height: 1.5;
-  margin: 0;
+    font-weight: 600;
+    color: $heading-font-color;
+    font-family: $heading-font;
+    line-height: 1.5;
+    margin: 0;
 }
 h1 {
-  font-size: 2.5em;
-  a,
-  a:visited {
-    text-decoration: none;
-  }
+    font-size: 2.5em;
+    a,
+    a:visited {
+        text-decoration: none;
+    }
 }
 h2 {
-  font-size: 2em;
+    font-size: 2em;
 }
 a,
 a:visited {
-  color: $link-color;
-  text-decoration: underline;
+    color: $link-color;
+    text-decoration: underline;
 }
 a:hover {
-  color: $link-hover-color;
-  text-decoration: underline;
+    color: $link-hover-color;
+    text-decoration: underline;
 }
 main {
     position: relative;
@@ -43,8 +43,8 @@ main {
     max-width: $content-width;
 }
 .container {
-  max-width: $content-width;
-  margin: 0 auto;
+    max-width: $content-width;
+    margin: 0 auto;
 }
 
 /* Nav */
@@ -110,11 +110,9 @@ main {
     border-top: 1.5px solid $light;
     footer {
         max-width: $content-width;
-        // padding: $padding-1 * 2;
         margin: 0 auto;
         .social-links {
             display: flex;
-            // justify-content: space-around;
             .social-link {
                 display: flex;
                 align-items: center;
