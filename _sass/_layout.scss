@@ -13,6 +13,7 @@ h3 {
   color: $heading-font-color;
   font-family: $heading-font;
   line-height: 1.5;
+  margin: 0;
 }
 h1 {
   font-size: 2.5em;
@@ -34,14 +35,16 @@ a:hover {
   text-decoration: underline;
 }
 main {
-  padding: 0 15px;
-  max-width: $content-width;
-  margin: ($nav-height + ($padding-1 * 2)) auto;
+    position: relative;
+    padding: ($nav-height + ($padding-1 * 2)) 15px 0;
+    padding-bottom: $nav-height;
+    margin: 0 auto;
+    min-height: 100vh;
+    max-width: $content-width;
 }
 .container {
-
   max-width: $content-width;
-  margin: 0 auto $padding-1 * 2;
+  margin: 0 auto;
 }
 
 /* Nav */
@@ -96,20 +99,26 @@ main {
 /* Footer */
 
 .footer-container {
-    width: 100%;
     position: absolute;
     bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    margin-top: $padding-1 * 2;
+    width: 100%;
+    height: $nav-height;
     border-top: 1.5px solid $light;
     footer {
         max-width: $content-width;
-        padding: $padding-1 * 2;
+        // padding: $padding-1 * 2;
         margin: 0 auto;
         .social-links {
             display: flex;
-            justify-content: space-around;
+            // justify-content: space-around;
             .social-link {
                 display: flex;
                 align-items: center;
+                margin: 0 $padding-1;
                 i {
                     color: darken($light, 50%);
                     padding-top: 4px;
@@ -124,6 +133,27 @@ main {
                     }
                 }
             }
+        }
+    }
+}
+
+/* Circular Index */
+
+.circular-index-container {
+    margin-bottom: $padding-1 * 2;
+    h1 {
+        margin: $padding-1 / 2;
+        text-align: center;
+    }
+    .thumbnail-container {
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 50%;
+            border: 1.5px solid black;
         }
     }
 }

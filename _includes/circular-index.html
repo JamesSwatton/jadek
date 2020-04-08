@@ -1,0 +1,15 @@
+{% assign title_downcase = page.title | downcase %}
+<div class="index-container">
+    {% for collection in site.collections  %}
+        {% if collection.label == title_downcase %}
+            {% for doc in collection.docs %}
+                <div class="circular-index-container">
+                    <h1>{{ doc.title }}</h1>
+                    <div class="thumbnail-container">
+                        <img src="{{ site.baseurl }}{{ doc.thumbnail }}" alt="">
+                    </div>
+                </div>
+            {% endfor%}
+        {% endif %}
+    {% endfor %}
+</div>
