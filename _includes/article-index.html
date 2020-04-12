@@ -2,16 +2,8 @@
 <div class="index-container">
     {% for collection in site.collections  %}
         {% if collection.label == title_downcase %}
-            {% for doc in collection.docs %}
-                <div class="article-index-container">
-                    <div class="thumbnail-container">
-                        <h1>{{ doc.title }}{{ forloop.index }}</h1>
-                        <img src="{{ site.baseurl }}{{ doc.thumbnail }}" alt="">
-                    </div>
-                    {% if page.has-excerpt %}
-                        <p class="excerpt">{{ page.excerpt }}</p>
-                    {% endif %}
-                </div>
+            {% for page in collection.docs %}
+                {% include carousel.html %}
             {% endfor%}
         {% endif %}
     {% endfor %}

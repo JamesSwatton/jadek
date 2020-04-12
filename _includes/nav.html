@@ -8,8 +8,10 @@
                     {% assign title_downcase = site_page.title | downcase %}
                     <li class="nav-link "><a href="{{ site_page.url }}" {% if
                                 page.url contains title_downcase %}
-                                class="current" {% endif %}>{{ site_page.title }}</a></li>
+                                class="current" {% endif %}>{{ site_page.title |
+                            upcase }}</a></li>
             {% endif %}{% endfor %}
         </ul>
     </div>
 </div>
+

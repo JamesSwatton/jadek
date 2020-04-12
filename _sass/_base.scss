@@ -1,9 +1,11 @@
 $content-width: 800px;
-$font-style: 'Karla', sans-serif; 
+// $font-style: 'Karla', sans-serif; 
+$font-style: 'Roboto Mono', sans-serif;
 $font-color: #262626;
 $link-color: #666666;
 $link-hover-color: black;
-$heading-font: 'Rubik', sans-serif;
+// $heading-font: 'Rubik', sans-serif;
+$heading-font: 'Roboto Mono', sans-serif;
 $heading-font-color: #111111;
 $light: #e8e7e7;
 $nav-height: 60px;
@@ -15,4 +17,6 @@ $padding-1: 16px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
