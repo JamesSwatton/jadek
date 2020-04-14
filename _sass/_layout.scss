@@ -198,7 +198,7 @@ main {
 /* Carousel */
 
 .carousel-container{
-    margin-bottom: $padding-1 * 3;
+        margin-bottom: $padding-1 * 3;
     .carousel {
         .carousel-cell {
             width: 100%;
@@ -235,46 +235,75 @@ main {
         }
     }
     .article-info {
-        padding: 10px 0;
-        position: relative;
-        .title {
-            display: flex;
-            position: absolute;
-            left: 0;
-            padding-bottom: 4px;
-            &:hover {
-                border-bottom: 2px solid black;
+        .info {
+            margin-bottom: 0px;
+            transition: margin-bottom 0.5s;
+            &.active {
+                margin-bottom: $padding-1;
             }
-        }
-        .more {
+            p {
+                padding: 4px 0;
+            }
+            height: 42px;
+            padding: 10px 0;
+            position: relative;
             display: flex;
-            position: absolute;
-            left: 50%;
+            justify-content: space-between;
+            .title {
                 &:hover {
+                    cursor: pointer;
                     p {
                         border-bottom: 2px solid black;
                     }
                 }
-            p {
-                margin-right: 8px;
-                padding-bottom: 4px;
             }
-            .plus {
-                height: 0.7em;
-                width: 0.7em;
-                img {
-                    height: 100%;
-                    width: auto;
-                    transition: 0.5s ease-in-out;
-                    &.active {
-                        transform: rotate(45deg);
+            .more {
+                display: flex;
+                position: absolute;
+                left: 50%;
+                &:hover {
+                    cursor: pointer;
+                    p {
+                        border-bottom: 2px solid black;
+                    }
+                }
+                p {
+                    margin-right: 8px;
+                }
+                .plus {
+                    &:hover {
+                        cursor: pointer;
+                    }
+                        padding: 4px 0;
+                    img {
+                        height: 14px;
+                        width: 14px;
+                        transition: 0.5s ease-in-out;
+                        &.active {
+                            transform: rotate(45deg);
+                        }
                     }
                 }
             }
         }
-        .image-num {
-            position: absolute;
-            right: 0;
+        .excerpt {
+            .text {
+                // padding-top: $p-line-height;
+                line-height: $p-line-height;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                height: 0em;
+                transition: height 0.5s;
+                display: -webkit-box;
+                -webkit-line-clamp: $excerpt-line-clamp; /* Write the number of 
+                                        lines you want to be 
+                                        displayed */
+                -webkit-box-orient: vertical;
+                &.active {
+                    // height: 150px;
+                    height: $excerpt-line-clamp * $p-line-height;
+                }
+            }
         }
     }
     .article-info p {

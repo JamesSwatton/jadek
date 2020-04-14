@@ -13,14 +13,21 @@
     </div>
 
     <div class="article-info">
-        <p class="title">{{ page.title | upcase}}</p>
-        <div class="more">
-            <p> MORE </p>
-            <div class="plus">
-                <img src="{{ site.baseurl }}/assets/images/plus.svg">
+        <div class="info">
+            <div class="title">
+                <p >{{ page.title | upcase}}</p>
             </div>
+            <div class="more">
+                <p> MORE </p>
+                <div class="plus">
+                    <img src="{{ site.baseurl }}/assets/images/plus.svg">
+                </div>
+            </div>
+            <p class="image-num"></p>
         </div>
-        <p class="image-num"></p>
-
+        <div class="excerpt">
+            <div class="text"> {{ page.excerpt }}</div>
+            <div class="date"></div>
+        </div>
     </div>
 </div>

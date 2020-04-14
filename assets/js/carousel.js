@@ -23,9 +23,12 @@ $(document).ready(function() {
     })
 
 
-    $(document).ready(function() {
-        $('.plus img').click(function() {
-            $(this).toggleClass('active');
+    // toggle class for carousel accordian
+        $('.info .title, .info .more').click(function() {
+            $(this).parent().find('img').toggleClass('active');
+            $(this).parent().parent().find('.text').toggleClass('active');
+            $(this).parent().toggleClass('active');
+            console.log($(this).parent().parent())
+            console.log('hello')
         })
-    })
 })
