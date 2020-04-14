@@ -218,9 +218,6 @@ main {
                 width: 100%;
                 padding-bottom: 61.8%; /* 16:9 */
                 display: flex;
-                // .next:hover {
-                //     cursor: url('assets/images/next_arrow.png')
-                // }
                 .carousel-button {
                     width: 50%;
                     padding-bottom: 61.8%; /* 16:9 */
@@ -287,21 +284,43 @@ main {
             }
         }
         .excerpt {
+                height: 0em;
+                overflow: hidden;
+                transition: height 0.5s;
+                line-height: $p-line-height;
+                display: -webkit-box;
+                -webkit-line-clamp: $excerpt-line-clamp + 5;
+                -webkit-box-orient: vertical;
+                &.active {
+                    height: $excerpt-line-clamp + 5 * $p-line-height;
+                }
             .text {
-                // padding-top: $p-line-height;
+                &:hover {
+                    cursor: pointer;
+                }
                 line-height: $p-line-height;
                 overflow: hidden;
                 text-overflow: ellipsis;
                 height: 0em;
                 transition: height 0.5s;
                 display: -webkit-box;
-                -webkit-line-clamp: $excerpt-line-clamp; /* Write the number of 
-                                        lines you want to be 
-                                        displayed */
+                -webkit-line-clamp: $excerpt-line-clamp;
                 -webkit-box-orient: vertical;
                 &.active {
-                    // height: 150px;
                     height: $excerpt-line-clamp * $p-line-height;
+                }
+            }
+            .read-more {
+                p {
+                    display: inline;
+                    line-height: 1em;
+                    padding: 4px 0;
+                }
+                &:hover {
+                    cursor: pointer;
+                    p {
+                        border-bottom: 2px solid black;
+                    }
                 }
             }
         }

@@ -28,6 +28,7 @@ $(document).ready(function() {
             $(this).parent().find('img').toggleClass('active');
             $(this).parent().parent().find('.text').toggleClass('active');
             $(this).parent().toggleClass('active');
+            $(this).parent().parent().find('.excerpt').toggleClass('active');
             console.log($(this).parent().parent())
             console.log('hello')
         })
