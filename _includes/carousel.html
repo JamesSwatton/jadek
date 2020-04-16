@@ -1,15 +1,17 @@
 {% assign carousel_id = page.title | slugify | append: '-carousel' %}
 <div id="{{ carousel_id }}" class="carousel-container">
-    <div class="carousel">
-        {% for image in page.images %}
-            <div class="carousel-cell">
-                <img src="{{ site.baseurl }}{{ image }}" alt="">
-                <div class="button-container">
-                    <div class="carousel-button previous"></div>
-                    <div class="carousel-button next"></div>
+    <div class="carousel-and-buttons">
+        <div class="carousel">
+            {% for image in page.images %}
+                <div class="carousel-cell">
+                    <img src="{{ site.baseurl }}{{ image }}" alt="">
                 </div>
-            </div>
-        {% endfor %}
+            {% endfor %}
+        </div>
+        <div class="button-container">
+            <div class="carousel-button previous"></div>
+            <div class="carousel-button next"></div>
+        </div>
     </div>
 
     <div class="article-info">

@@ -199,38 +199,44 @@ main {
 
 .carousel-container{
         margin-bottom: $padding-1 * 3;
-    .carousel {
-        .carousel-cell {
-            width: 100%;
-            height: 0;
-            padding-bottom: 61.8%; /* 16:9 */
+        .carousel-and-buttons {
             position: relative;
-            img {
-                position: absolute;
-                top: 0; left: 0;
-                width: 100%; 
-                height: 100%;
-                object-fit: cover;
+            .carousel {
+                .carousel-cell {
+                    width: 100%;
+                    height: 0;
+                    padding-bottom: 61.8%; /* 16:9 */
+                    position: relative;
+                    img {
+                        position: absolute;
+                        top: 0; left: 0;
+                        width: 100%; 
+                        height: 100%;
+                        object-fit: cover;
+                    }
+                }
             }
             .button-container {
-                position: relative;
+                position: absolute;
+                top: 0;
+                left: 0;
                 z-index: 1;
                 width: 100%;
+                height: 0;
                 padding-bottom: 61.8%; /* 16:9 */
                 display: flex;
                 .carousel-button {
                     width: 50%;
                     padding-bottom: 61.8%; /* 16:9 */
                     &.next {
-                    cursor: url('../images/next_arrow.png'), auto;
-                }
+                        cursor: url('../images/next_arrow.png'), auto;
+                    }
                     &.previous {
-                    cursor: url('../images/prev_arrow.png'), auto;
-                }
+                        cursor: url('../images/prev_arrow.png'), auto;
+                    }
                 }
             }
         }
-    }
     .article-info {
         .info {
             margin-bottom: 0px;
