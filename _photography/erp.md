@@ -3,12 +3,15 @@ layout: article
 title: The Elephant & Rhino Pavilion
 published-on: 25/04/2015
 thumbnail: /assets/images/erp_01.jpg
-background-image: "/assets/images/pp_01.jpg"
+background-image: "/assets/images/erp_01.jpg"
 images:
 - /assets/images/erp_01.jpg
 - /assets/images/erp_02.jpg
 - /assets/images/erp_03.jpg
 ---
+
+![blah](/assets/images/erp_01.jpg)
+![blah](/assets/images/erp_02.jpg)
 
 Elephants are once ‘exotic and familiar’ (Haywood 2012): they can be trained to give rides, perform and interact with people closely due to their mental capabilities. Originally London Zoo housed their elephants in a ‘whimsical’ cottage (Pastscape 2007), and much later, in 1939, elephants were kept in Lubetkin’s relatively tiny Gorilla House. Before the practice was stopped in the early 1960s, elephants were exercised through giving rides to visitors. Gleeson (1933: 44) believed that ‘[a]n unreliable elephant is a most unproductive investment for any Zoological society’.
 
