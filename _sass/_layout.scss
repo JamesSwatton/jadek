@@ -38,6 +38,9 @@ a:hover {
     cursor: pointer;
     // cursor: crosshair;
 }
+p {
+    line-height: 1.3em;
+}
 img {
     width: 100%;
     height: auto;
@@ -56,6 +59,15 @@ main {
     margin: 0 auto;
 }
 
+/* Landing Page */
+.landing-image {
+    width: 100%;
+    height: calc(100vh - 120px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* Nav */
 
 .navigation {
@@ -66,7 +78,7 @@ main {
     background: #fff;
     width: 100%;
     z-index: 0;
-    border-bottom: 1.5px solid $light;
+    // border-bottom: 1.5px solid $light;
     // box-shadow: 0px 1px 1px RGBA(4, 25, 54, 0.1);
     .nav-container {
         height: 100%;
@@ -122,7 +134,7 @@ main {
     margin-top: $padding-1 * 2;
     width: 100vw;
     height: $nav-height;
-    border-top: 1.5px solid $light;
+    // border-top: 1.5px solid $light;
     footer {
         max-width: $content-width;
         margin: 0 auto;
@@ -252,6 +264,7 @@ main {
                 margin-bottom: $padding-1;
             }
             p {
+                line-height: 1em;
                 padding: 4px 0;
             }
             height: 42px;

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: The Penguin Pool
 background-image: "/assets/images/pp_01.jpg"
 ---
