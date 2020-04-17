@@ -36,6 +36,10 @@ a:hover {
     cursor: pointer;
     // cursor: crosshair;
 }
+img {
+    width: 100%;
+    height: auto;
+}
 main {
     position: relative;
     padding: ($nav-height + ($padding-1 * 2)) 15px 0;
@@ -318,15 +322,18 @@ main {
                 }
             }
             .read-more {
-                p {
-                    display: inline;
-                    line-height: 1em;
-                    padding: 4px 0;
-                }
-                &:hover {
-                    cursor: pointer;
+                a {
+                    text-decoration: none;
                     p {
-                        border-bottom: 2px solid black;
+                        display: inline;
+                        line-height: 1em;
+                        padding: 4px 0;
+                    }
+                    &:hover {
+                        cursor: pointer;
+                        p {
+                            border-bottom: 2px solid black;
+                        }
                     }
                 }
             }
@@ -343,6 +350,62 @@ main {
 .flickity-page-dots {
     display: none;
 }
-.red {
-    background: red;
+
+/* article */
+
+.heading {
+    h1 {
+        line-height: 1.3em;
+    }
+    .date {
+        color: $link-color;
+        line-height: 1em;
+        padding: 16px 0;
+        margin: 0;
+        font-size: 0.8em;
+    }
+    .line {
+        border-bottom: 1.5px solid $link-color;
+    }
+}
+.article-container {
+    .article-text {
+        text-align: justify;
+        line-height: $p-line-height;
+        margin-top: $padding-1 * 2;
+        margin-bottom: $padding-1 * 3;
+        p>img {
+            margin: 16px 0;
+        }
+    }
+    .banner {
+        width: 1500px;
+        position: fixed;
+        top: 60px;
+        left: 0;
+        z-index: -3;
+        .img {
+            width: 100%;
+            height: auto;
+        }
+    }
+    .overlay {
+        background-color: white;
+        width: 1500px;
+        height: 100vh;
+        position: fixed;
+        top: 60px;
+        left: 0;
+        z-index: -2;
+        opacity: 0.95;
+    }
+}
+.filtered {
+    background: black;
+}
+.filtered img {
+    mix-blend-mode: screen;
+    -webkit-filter: grayscale(100%) contrast(130%);
+    filter: grayscale(100%) contrast(130%);
+    opacity: 1;
 }
