@@ -26,6 +26,10 @@ layout: default
 
 </div>
 
-<script class="add-zoom-script " src="{{ site.baseurl }}/assets/js/add-zoom.js"
-        data-target-element=".article-text p img"></script>
-
+<script>
+    $('.article-text p img').each(function(el) {
+        $(this).attr('data-zoomable', '');
+    })
+    mediumZoom($('[data-zoomable]').toArray(), {
+    });
+</script>
