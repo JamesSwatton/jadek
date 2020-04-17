@@ -32,12 +32,10 @@
 </div>
 
 <script>
-    console.log('{{ content_json }}'.match(/src="(.*)\.jpg"/g).map(path =>
-        path.slice(5, path.length - 1)));
-    $.each('{{ page.images }}'.split('jpg').map(path => path + 'jpg').slice(0,
-        -1),
-        function(i, val) {
+    // extracts img path from page content then appends img to carousel
+    $.each('{{ content_json }}'.match(/src="(.*)\.jpg"/g).map(path =>
+        path.slice(5, path.length - 1)), function(i, val) {
             $(`#{{ carousel_id }}`).find('.carousel').append(`<div
-            class="carousel-cell"><img src="${val}"></div>`)
+            class="carousel-cell"><img src="{{ site.baseurl }}${val}"></div>`)
         });
 </script>

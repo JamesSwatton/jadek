@@ -12,6 +12,7 @@ images:
 ---
 
 ![pp](/assets/images/pp_01.jpg)
+![pp](/assets/images/pp_02.jpg)
 
 Berthold Lubetkin and his architecture firm Tecton were commissioned to design a pool for London Zoo’s penguins in 1934. Their earlier commission resulted in a white, circular Gorilla House. Modernist design was a move toward a ‘biotechnic age’ (Mumford in Gruffudd 2000: 223), yet Gruffudd notes (2000: 222) that these buildings were the result of new ideas about nature and ‘experiments in harmonizing living creatures and their designed spaces’ through rational scientific enquiry (Anderson 1998: 46). The penguin commission gave Lubetkin chance to showcase modernist design to the masses: he saw architecture as ‘a statement of the social aims of the age’ to help man ‘understand, to explain and to control his surroundings’ (Coe & Reading 1981: 17). Lubetkin undoubtedly considered the needs of the animals in the design process (Coe & Reading 1981: 36), yet in a way philosophically distinct from his predecessors: he rejected the naturalistic approach as ‘tokenism’ (Gruffudd 2000: 225). For Lubetkin, naturalistic design ‘allowed the very shy animals to hide themselves from the public gaze … while those with a taste for publicity were not able to indulge it’ (Allan 1992: 200). The zoo was a theatre: an appropriate building would showcase the penguins’ pure ‘penguinness’.
 
