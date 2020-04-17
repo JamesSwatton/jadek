@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<div class="comic-container">
+    {% for image in page.images %}
+        <p><img src="{{ site.baseurl }}{{ image }}"></p>
+    {% endfor %}
+</div>

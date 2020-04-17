@@ -6,7 +6,9 @@
                 <div class="circular-index-container">
                     <h2>{{ doc.title | upcase }}</h2>
                     <div class="thumbnail-container">
-                        <img src="{{ site.baseurl }}{{ doc.thumbnail }}" alt="">
+                        <a href="{{ site.baseurl }}{{ doc.url }}">
+                            <img src="{{ site.baseurl }}{{ doc.thumbnail }}" alt="">
+                        </a>
                     </div>
                 </div>
             {% endfor%}

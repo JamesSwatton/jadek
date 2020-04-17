@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: comic
 title: Beauty Beast
 thumbnail: /assets/images/beauty-beast-badge.png
-image: /assets/images/beauty-beast.png
+images: 
+- /assets/images/beauty-beast.jpg
 ---
