@@ -24,7 +24,7 @@
             <p class="image-num"></p>
         </div>
         <div class="excerpt">
-            <div class="text"> {{ page.excerpt }}</div>
+            <div class="text"> {{ page.content | strip_html | truncatewords: 85 }}</div>
             <br>
             <div class="read-more"><p>READ MORE...</p></div>
         </div>

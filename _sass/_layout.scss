@@ -304,6 +304,7 @@ main {
                 &:hover {
                     cursor: pointer;
                 }
+                text-align: justify;
                 line-height: $p-line-height;
                 overflow: hidden;
                 text-overflow: ellipsis;
