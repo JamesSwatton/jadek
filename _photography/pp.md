@@ -1,14 +1,7 @@
 ---
 layout: default
 title: The Penguin Pool
-thumbnail: /assets/images/pp_01.jpg
-images:
-- /assets/images/pp_01.jpg
-- /assets/images/pp_02.jpg
-- /assets/images/pp_03.jpg
-- /assets/images/pp_04.jpg
-- /assets/images/pp_05.jpg
-- /assets/images/pp_06.jpg
+background-image: "/assets/images/pp_01.jpg"
 ---
 
 ![pp](/assets/images/pp_01.jpg)

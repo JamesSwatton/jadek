@@ -2,12 +2,7 @@
 layout: article
 title: The Elephant & Rhino Pavilion
 published-on: 25/04/2015
-thumbnail: /assets/images/erp_01.jpg
 background-image: "/assets/images/erp_01.jpg"
-images:
-- /assets/images/erp_01.jpg
-- /assets/images/erp_02.jpg
-- /assets/images/erp_03.jpg
 ---
 
 ![blah](/assets/images/erp_01.jpg)
