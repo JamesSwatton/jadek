@@ -431,3 +431,57 @@ main {
 .comic-container {
     margin-bottom: $padding-1 * 2;
 }
+
+/* Gallery */
+
+#gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#gallery-container img {
+    padding: 0 4px;
+    vertical-align: middle;
+    margin-bottom: 8px;
+}
+#column-1 {
+    img {
+        padding-left: 0;
+    }
+}
+#column-4 {
+    img {
+        padding-right: 0;
+    }
+}
+.column {
+    flex: 25%;
+    max-width: 25%;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+  #column-2 {
+      img {
+          padding-right: 0;
+      }
+  }
+  #column-3 {
+      img {
+          padding-left: 0;
+      }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+  #gallery-container img {
+      padding: 0; 
+  }
+}

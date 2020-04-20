@@ -1,0 +1,32 @@
+--- 
+layout: default
+---
+
+<div id="gallery-container">
+    <div id="column-1" class="column"></div>
+    <div id="column-2" class="column"></div>
+    <div id="column-3" class="column"></div>
+    <div id="column-4" class="column"></div>
+</div>
+
+
+<script>
+    $(document).ready(function() {
+        $('main').css('padding', '60px 15px');
+        const paths = '{{ page.images }}';
+        const newPaths = paths.split("jpg")
+            .filter(path => path !== '')
+            .map(path => '{{ site.baseurl }}' + path + 'jpg');
+        let count = 1;
+    
+        newPaths.forEach(path => {
+            if (count > 4) count = 1;
+            $(`#column-${count}`).append(`<img src="${path}" data-zoomable="">`);
+            console.log(path);
+            count++;
+        })
+    
+        mediumZoom($('[data-zoomable]').toArray(), {
+        });
+    })
+</script>
