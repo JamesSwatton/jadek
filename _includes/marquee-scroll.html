@@ -1,0 +1,55 @@
+{% assign message_arr = page.message |upcase | prepend: '- ' | append: ' ' | split: '' %}
+<div class="marquee">
+    <ul class="letters">
+        {% if page.message %}
+            {% for i in (1..6) %}
+                {% for char in message_arr %}
+                    {% if char == ' ' %}
+                        <li>&nbsp;</li>
+                    {% else %}
+                        <li>{{ char }}</li>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        {% endif %}
+    </ul>
+</div>
+
+<script>
+    $(document).ready(function() {
+        var noOfLetters = $(".letters li").length;
+        var totalLetterWidth = "";
+        var speed = 1.5;
+
+        for(let i = 0; i < noOfLetters; i++) {
+            var letterWidth = $(".letters li").eq(i).outerWidth(true);
+            totalLetterWidth = totalLetterWidth + letterWidth;
+        }
+
+        $(".letters").css('width', totalLetterWidth + 'px');
+        $(".marquee").hover(function() {
+            speed = 0;
+        }, function() {
+            speed = 1.5;
+        })
+
+        animateLetters();
+
+        function animateLetters() {
+            $(".letters li").eq(0).animate({
+                'marginLeft': '-=' + speed + 'px'
+            }, 1, function() {
+                var animateLetterWidth = $(this).outerWidth(true);
+
+                if (speed >= animateLetterWidth) {
+                    $(this).parent().append($(this));
+                    $(this).removeAttr('style');
+                }
+
+                animInterval = setTimeout(() => {
+                    animateLetters();
+                })
+            })
+        }
+    })
+</script>

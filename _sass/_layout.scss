@@ -485,3 +485,44 @@ main {
       padding: 0; 
   }
 }
+
+/* Marquee Scroll */
+
+.marquee {
+    border: 1px solid $light;
+    z-index: 1;
+    background-color: white;
+    position: fixed;
+    top: 0; 
+    left: 0;
+    margin-top: $nav-height;
+    width: 2000px;
+    height: $nav-height;
+    overflow: hidden;
+    box-shadow: 0 0 0px rgba(0,0,0,0.4);
+    transition: box-shadow 0.2s;
+    &.active {
+        box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    }
+    &:hover {
+        background-color: $font-color;
+        border-bottom: 1px solid $font-color;
+        color: white;
+    }
+    ul {
+        height: $nav-height;
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+        li {
+            display: flex;
+            align-items: center;
+            height: 100%;
+            padding-bottom: 5px;
+            // font-family: $font-style; 
+            font-size: $nav-height;
+            white-space: nowrap;
+            float: left;
+            }
+        }
+    }
