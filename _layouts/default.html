@@ -3,6 +3,9 @@
     {% include head.html %}
     <body>
         {% include nav.html %} 
+        {% if page.scroll-message %}
+            {% include marquee-scroll.html %}
+        {% endif %}
         <main>
             <div class="container">
                 {{ content }}
@@ -11,3 +14,11 @@
         </main>
     </body>
 </html>
+
+<script>
+    $(document).ready(function() {
+        if ('{{ page.scroll-message }}') {
+            $('main').css('padding-top', '120px');
+        }
+    })
+</script>
