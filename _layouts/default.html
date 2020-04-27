@@ -17,8 +17,20 @@
 
 <script>
     $(document).ready(function() {
-        if ('{{ page.scroll-message }}') {
+        if ($(window).width() <= 800) {
+            $('.marquee').css('display', 'none');
+        } else {
+            $('.marquee').css('display', 'block');
             $('main').css('padding-top', '120px');
         }
+        if ('{{ page.scroll-message }}' == 'true') {
+            if ($('.marquee').css('display') == 'block') {
+                $('main').css('padding-top', '120px');
+            } else {
+                $('main').css('padding-top', '60px');
+            }
+        } else {
+                $('main').css('padding-top', '60px');
+            }
     })
 </script>

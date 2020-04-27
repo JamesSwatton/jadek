@@ -659,7 +659,7 @@ nav {
     }
 }
 
-/* Card Flip */
+/* Weird Canteen */
 
 .zine-container {
     margin: $padding-1 * 2 auto;
@@ -739,3 +739,29 @@ nav {
         }
     }
 }
+
+.zine-container-mobile {
+    text-align: justify;
+    display: none;
+    div,
+    p {
+        margin: $padding-1 0;
+    }
+    .image {
+        display: flex;
+        justify-content: center;
+        margin-top: 0;
+        img {
+            max-width: 500px;
+        }
+    }
+}
+
+@media only screen and (max-width: $breakpoint) {
+    .zine-container {
+        display: none;
+    }
+    .zine-container-mobile {
+        display: block;
+    }
+} 
