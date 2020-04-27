@@ -48,7 +48,8 @@ img {
 main {
     position: relative;
     z-index: -1;
-    padding: ($nav-height + ($padding-1 * 2)) 15px 0;
+    // padding: ($nav-height + ($padding-1 * 2)) 15px 0;
+    padding: $nav-height 15px 0;
     padding-bottom: $nav-height;
     margin: 0 auto;
     min-height: 100vh;
@@ -380,27 +381,30 @@ nav {
                 line-height: 1em;
                 padding: 4px 0;
             }
-            height: 42px;
             padding: 10px 0;
             position: relative;
-            display: flex;
-            justify-content: space-between;
             .title {
+                max-width: 50%;
+                display: inline-block;
+                margin-bottom: 2px;
                 &:hover {
                     cursor: pointer;
                     p {
                         border-bottom: 2px solid black;
+                        margin-bottom: -2px;
                     }
                 }
             }
             .more {
-                display: flex;
+                display: inline-flex;
                 position: absolute;
                 left: 50%;
+                margin-bottom: 2px;
                 &:hover {
                     cursor: pointer;
                     p {
                         border-bottom: 2px solid black;
+                        margin-bottom: -2px;
                     }
                 }
                 p {
@@ -420,6 +424,11 @@ nav {
                         }
                     }
                 }
+            }
+            .image-num {
+                position: absolute;
+                right: 0;
+                top: 10px;
             }
         }
         .excerpt {
@@ -473,6 +482,20 @@ nav {
         padding: 0;
     }
 } 
+
+@media only screen and (max-width: $breakpoint) {
+    .info {
+        .title {
+            max-width: 75%;
+        }
+        .more {
+            position: relative !important;
+            display: flex !important;
+            left: 0 !important;
+        }
+    }
+}
+
 .flickity-button {
     display: none;
 }
