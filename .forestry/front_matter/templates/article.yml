@@ -1,4 +1,32 @@
 ---
 label: Article
 hide_body: false
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: article
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: published-on
+  type: datetime
+  label: Date Published
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+    export_format: DD/MM/YYYY
+  default: now
+- name: background-image
+  type: file
+  config:
+    maxSize: 64
+  label: Background Image
