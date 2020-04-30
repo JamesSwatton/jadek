@@ -14,6 +14,12 @@ fields:
   config:
     required: true
   label: Title
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: Thumbnail
+  description: Use a circular or square jpg
 - name: images
   type: image_gallery
   config: {}
