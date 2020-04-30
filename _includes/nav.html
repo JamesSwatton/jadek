@@ -11,7 +11,7 @@
             <ul class="nav-links">
                 {% for site_page in site.pages %}{% if site_page.title %}
                         {% assign title_downcase = site_page.title | slugify %}
-                        <li class="nav-link "><a href="{{ site_page.url }}" {% if
+                        <li class="nav-link "><a href="{{ site.baseurl }}{{ site_page.url }}" {% if
                                                      page.url contains title_downcase %}
                                     class="current" {% endif %}>{{ site_page.title |
                                 upcase }}</a></li>
