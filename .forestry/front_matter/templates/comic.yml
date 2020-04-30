@@ -1,4 +1,20 @@
 ---
 label: Comic
 hide_body: true
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: comic
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
