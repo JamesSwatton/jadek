@@ -336,10 +336,10 @@ nav {
                     width: 50%;
                     padding-bottom: 61.8%; /* 16:9 */
                     &.next {
-                        cursor: url('../images/next_arrow.png'), auto;
+                        cursor: url('../utility/next_arrow.png'), auto;
                     }
                     &.previous {
-                        cursor: url('../images/prev_arrow.png'), auto;
+                        cursor: url('../utility/prev_arrow.png'), auto;
                     }
                 }
             }
