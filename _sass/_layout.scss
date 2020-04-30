@@ -302,33 +302,7 @@ nav {
     }
 }
 
-/* Article Index */
-
-.article-index-container {
-    width: $content-width;
-    height: 400px;
-    .thumbnail-container {
-        position: relative;
-        width: 75%;
-        min-width: 400px;
-        height: 100%;
-        h1 {
-            color: white;
-            position: relative;
-            z-index: 1;
-        }
-        img {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-    }
-}
-
-/* Carousel */
+/* Carousel / Article Index */
 
 .carousel-container{
         margin-bottom: $padding-1 * 2;
@@ -727,11 +701,23 @@ nav {
             top: 60px;
             left: -16px;
             img {
+                position: relative;
+                top: 0;
+                left: 0;
                 transform: rotate(-19deg);
                 height: 150px;
                 width: 150px;
-        }
-
+                transition: top 0.1s, 
+                left 0.1s,
+                width 0.1s, 
+                height 0.1s;
+                &:hover {
+                    top: -4px;
+                    left: -4px;
+                    width: 158px;
+                    height: 158px;
+                }
+            }
         }
         .description {
             margin-top: 220px;
