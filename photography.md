@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: photography
 title: Photography
 ---
-
-{% include article-index.html %}

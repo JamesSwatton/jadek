@@ -1,6 +1,5 @@
 ---
-layout: default
+layout: comics
 title: Comics
 ---
 
-{% include circular-index.html %}
