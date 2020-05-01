@@ -18,3 +18,5 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+pages:
+- drawings.md
