@@ -26,7 +26,7 @@
         <div class="excerpt">
             <div class="text"> {{ page.content | strip_html | truncatewords: 85 }}</div>
             <br>
-            <div class="read-more"><a href="{{ page.url }}"><p>READ MORE...</p></a></div>
+            <div class="read-more"><a href="{{ site.baseurl }}{{ page.url }}"><p>READ MORE...</p></a></div>
         </div>
     </div>
 </div>
