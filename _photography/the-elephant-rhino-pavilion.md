@@ -5,7 +5,9 @@ title: The Elephant & Rhino Pavilion
 background-image: "/assets/images/erp_06.jpg"
 
 ---
-![](/assets/images/erp_01.jpg)Elephants are once ‘exotic and familiar’ (Haywood 2012): they can be trained to give rides, perform and interact with people closely due to their mental capabilities. Originally London Zoo housed their elephants in a ‘whimsical’ cottage (Pastscape 2007), and much later, in 1939, elephants were kept in Lubetkin’s relatively tiny Gorilla House. Before the practice was stopped in the early 1960s, elephants were exercised through giving rides to visitors. Gleeson (1933: 44) believed that ‘\[a\]n unreliable elephant is a most unproductive investment for any Zoological society’.
+![](/assets/images/erp_01.jpg)
+
+Elephants are once ‘exotic and familiar’ (Haywood 2012): they can be trained to give rides, perform and interact with people closely due to their mental capabilities. Originally London Zoo housed their elephants in a ‘whimsical’ cottage (Pastscape 2007), and much later, in 1939, elephants were kept in Lubetkin’s relatively tiny Gorilla House. Before the practice was stopped in the early 1960s, elephants were exercised through giving rides to visitors. Gleeson (1933: 44) believed that ‘\[a\]n unreliable elephant is a most unproductive investment for any Zoological society’.
 
 A new home was built as part of 1958’s ‘New Zoo’ redevelopment plan (Pastscape 2007). The Elephant & Rhino Pavilion, or Casson Pavilion, ‘seemed to attempt to create an idea or abstraction of “nature” without resembling anything that could actually be seen _in_ nature’ (Rothfels 2002: 200): its most distinctive design feature being the green copper silos which rise ‘like a clump of pachyderms with their heads together’ (Miller 2002). The rough concrete coating of the building resembles an elephant’s skin, and is tough enough to ‘prevent the animals from damaging the fabric’ (Guillery 1993: 43).
 
@@ -30,18 +32,18 @@ Meanwhile, The Elephant & Rhino Pavilion becomes masked by foliage and the space
 ![](/assets/images/erp_06.jpg)
 
 _Barrington-Johnson, J., 2005. The Zoo: The Story of London Zoo. London: Robert Hale.  
- BBC News, 2001. ‘_[_Elephants leave London_](http://news.bbc.co.uk/1/hi/england/1631128.stm)_‘ \[online\].  
- Born Free Foundation, \[no date\]. ‘_[_The Story of Pole Pole_](http://www.bornfree.org.uk/about-us/history/pole-pole-story/)_‘ \[online\].  
- Chinery, Michael, 1976. Life in the Zoo. Glasgow & London: Collins.  
- Gleeson, Gertrude, 1933. The Zoological Gardens. London: Sampson Low, Marston & Co.  
- Guillery, Peter, 1993. The Buildings of London Zoo.  
- Hancocks, David, 2001. A Different Nature: The Paradoxical World of Zoos and Their Uncertain Future. London: University of California Press.  
- Hancocks, David, 1971. Animals and Architecture. London: Hugh Evelyn Limited.  
- Haywood, Mark, 2012. ‘_[_A Brief History of European Elephant Houses: From London’s Imperial Stables to Copenhagen’s Postmodern Glasshouse_](https://www.academia.edu/1384194/A_Brief_History_of_European_Elephant_Houses_from_Londons_Imperial_Stables_to_Copenhagens_Post-modern_Glasshouse)_’ \[online\]. Academia.  
- Jenkins, Simon, 2001. ‘_[_Save the Regent’s Park Three_](http://www.standard.co.uk/news/save-the-regents-park-three-%206300888.html)_‘ \[online\]. London Evening Standard.  
- McKenna, Virginia, Travers, Will & Wray, Jonathan, eds, 1987. Beyond the Bars: The Zoo Dilemma. Wellingborough: Thorsons Publishing Group Ltd.  
- Miller, Keith, 2002. ‘_[_Making the grade: Elephant and Rhino House, London Zoo_](http://www.telegraph.co.uk/property/3308706/Making-the-grade-Elephant-and-Rhino-House-London-Zoo.html)_‘ \[online\]. Telegraph.  
- Pastscape, 2007. ‘_[_Casson Pavilion_](http://www.pastscape.org.uk/hob.aspx?hob_id=619100)_‘ \[online\].  
- Rothfels, Nigel, 2002. Representing Animals. Bloomington: Indiana University Press.  
- Tyler, Adam, 1983. ‘_[_Elephants’ Graveyard_](http://www.animalaid.org.uk/images/aablog/polepole.pdf)_‘ in Time Out, No.664, May 13–19 1983. Animal Aid.  
- Wainwright, Oliver, 2013. ‘_[_London Zoo’s new Tiger Territory: built for the animals first, and visitors second’_](http://www.theguardian.com/artanddesign/architecture-design-blog/2013/mar/20/london-zoo-new-tiger-territory) _\[online\]. Guardian._
+BBC News, 2001. ‘_[_Elephants leave London_](http://news.bbc.co.uk/1/hi/england/1631128.stm)_‘ \[online\].  
+Born Free Foundation, \[no date\]. ‘_[_The Story of Pole Pole_](http://www.bornfree.org.uk/about-us/history/pole-pole-story/)_‘ \[online\].  
+Chinery, Michael, 1976. Life in the Zoo. Glasgow & London: Collins.  
+Gleeson, Gertrude, 1933. The Zoological Gardens. London: Sampson Low, Marston & Co.  
+Guillery, Peter, 1993. The Buildings of London Zoo.  
+Hancocks, David, 2001. A Different Nature: The Paradoxical World of Zoos and Their Uncertain Future. London: University of California Press.  
+Hancocks, David, 1971. Animals and Architecture. London: Hugh Evelyn Limited.  
+Haywood, Mark, 2012. ‘_[_A Brief History of European Elephant Houses: From London’s Imperial Stables to Copenhagen’s Postmodern Glasshouse_](https://www.academia.edu/1384194/A_Brief_History_of_European_Elephant_Houses_from_Londons_Imperial_Stables_to_Copenhagens_Post-modern_Glasshouse)_’ \[online\]. Academia.  
+Jenkins, Simon, 2001. ‘_[_Save the Regent’s Park Three_](http://www.standard.co.uk/news/save-the-regents-park-three-%206300888.html)_‘ \[online\]. London Evening Standard.  
+McKenna, Virginia, Travers, Will & Wray, Jonathan, eds, 1987. Beyond the Bars: The Zoo Dilemma. Wellingborough: Thorsons Publishing Group Ltd.  
+Miller, Keith, 2002. ‘_[_Making the grade: Elephant and Rhino House, London Zoo_](http://www.telegraph.co.uk/property/3308706/Making-the-grade-Elephant-and-Rhino-House-London-Zoo.html)_‘ \[online\]. Telegraph.  
+Pastscape, 2007. ‘_[_Casson Pavilion_](http://www.pastscape.org.uk/hob.aspx?hob_id=619100)_‘ \[online\].  
+Rothfels, Nigel, 2002. Representing Animals. Bloomington: Indiana University Press.  
+Tyler, Adam, 1983. ‘_[_Elephants’ Graveyard_](http://www.animalaid.org.uk/images/aablog/polepole.pdf)_‘ in Time Out, No.664, May 13–19 1983. Animal Aid.  
+Wainwright, Oliver, 2013. ‘_[_London Zoo’s new Tiger Territory: built for the animals first, and visitors second’_](http://www.theguardian.com/artanddesign/architecture-design-blog/2013/mar/20/london-zoo-new-tiger-territory) _\[online\]. Guardian._
