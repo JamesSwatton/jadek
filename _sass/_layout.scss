@@ -39,7 +39,13 @@ a:hover {
     // cursor: crosshair;
 }
 p {
+    margin: $padding-1 0;
     line-height: 1.3em;
+}
+@media only screen and (max-width: $breakpoint) {
+    p {
+        font-size: 0.8rem;
+    }
 }
 img {
     width: 100%;
@@ -458,14 +464,30 @@ nav {
 } 
 
 @media only screen and (max-width: $breakpoint) {
+    .carousel-container {
+        margin-bottom: $padding-1;
+    }
     .info {
-        .title {
-            max-width: 75%;
+        p {
+            font-size: 1rem;
         }
         .more {
             position: relative !important;
             display: flex !important;
             left: 0 !important;
+            p {
+                border-bottom: 2px solid black;
+                margin-bottom: -2px;
+            }
+        }
+    }
+    .excerpt {
+        font-size: 0.8rem;
+        .read-more {
+            p {
+                font-size: 1rem; 
+                border-bottom: 2px solid $link-color;
+            }
         }
     }
 }
