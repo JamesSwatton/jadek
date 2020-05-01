@@ -28,14 +28,14 @@ Personally, the building does convey an ambiguous nature/culture binary, especia
 ![](/assets/images/pp_06.jpg)
 
 _Allan, John, 2002. Berthold Lubetkin. London: Merrell.  
- Allan, John, 1992. Berthold Lubetkin: Architecture and the Tradition of Progress. London: RIBA Publications Ltd.  
- Anderson, Kay, 1998. ‘Animals, Science and Spectacle in the City’ in Wolch, Jennifer & Emel, Jody, eds, 1998. Animal Geographies: Place, Politics, and Identity in the Nature-Culture Borderlands. London: Verso, pp.27–50.  
- Avanti Architechts, \[no date\]. ‘_[_Penguin Pool, London Zoo’_](http://avantiarchitects.co.uk/project/penguin-pool-london-zoo/#4) _\[online\].  
- British Pathé, 1939. ‘_[_Penguins_](http://www.britishpathe.com/video/penguins-3/query/penguins+london)_‘ \[online\].  
- Building Design, 2004. ‘_[_Lubetkin pool was penguin turn-off’_](http://www.bdonline.co.uk/lubetkin-pool-was-penguin-turn-off/3038063.article) _\[online\].  
- Coe, Peter & Reading, Michael, 1981. Lubetkin and Tecton: Architecture and Social Commitment. London: The Arts Council of Great Britain & Bristol: The University of Bristol.  
- Glancey, Jonathan, 2004. ‘_[_Penguins moved from listed pool’_](http://www.theguardian.com/uk/2004/jul/03/arts.artsnews) _\[online\]. Guardian.  
- Gruffudd, Pyrs, 2000. ‘Biological Cultivation: Lubetkin’s Modernism at London Zoo in the 1930s’ in Philo, Chris & Wilbert, Chris, eds, 2000. Animal Spaces, Beastly Places: New Geographies of Human-Animal Relations. Oxon: Routledge, pp.222–242.  
- Guillery, Peter, 1993. The Buildings of London Zoo.  
- Hediger, H., 1964. Wild Animals in Captivity. New York: Dover Publications Inc.  
- Wainwright, Oliver, 2013. ‘_[_London Zoo’s new Tiger Territory: built for the animals first, and visitors second_](http://www.theguardian.com/artanddesign/architecture-design-blog/2013/mar/20/london-zoo-new-tiger-territory)_‘ \[online\]. Guardian._
+Allan, John, 1992. Berthold Lubetkin: Architecture and the Tradition of Progress. London: RIBA Publications Ltd.  
+Anderson, Kay, 1998. ‘Animals, Science and Spectacle in the City’ in Wolch, Jennifer & Emel, Jody, eds, 1998. Animal Geographies: Place, Politics, and Identity in the Nature-Culture Borderlands. London: Verso, pp.27–50.  
+Avanti Architechts, \[no date\]. ‘_[_Penguin Pool, London Zoo’_](http://avantiarchitects.co.uk/project/penguin-pool-london-zoo/#4) _\[online\].  
+British Pathé, 1939. ‘_[_Penguins_](http://www.britishpathe.com/video/penguins-3/query/penguins+london)_‘ \[online\].  
+Building Design, 2004. ‘_[_Lubetkin pool was penguin turn-off’_](http://www.bdonline.co.uk/lubetkin-pool-was-penguin-turn-off/3038063.article) _\[online\].  
+Coe, Peter & Reading, Michael, 1981. Lubetkin and Tecton: Architecture and Social Commitment. London: The Arts Council of Great Britain & Bristol: The University of Bristol.  
+Glancey, Jonathan, 2004. ‘_[_Penguins moved from listed pool’_](http://www.theguardian.com/uk/2004/jul/03/arts.artsnews) _\[online\]. Guardian.  
+Gruffudd, Pyrs, 2000. ‘Biological Cultivation: Lubetkin’s Modernism at London Zoo in the 1930s’ in Philo, Chris & Wilbert, Chris, eds, 2000. Animal Spaces, Beastly Places: New Geographies of Human-Animal Relations. Oxon: Routledge, pp.222–242.  
+Guillery, Peter, 1993. The Buildings of London Zoo.  
+Hediger, H., 1964. Wild Animals in Captivity. New York: Dover Publications Inc.  
+Wainwright, Oliver, 2013. ‘_[_London Zoo’s new Tiger Territory: built for the animals first, and visitors second_](http://www.theguardian.com/artanddesign/architecture-design-blog/2013/mar/20/london-zoo-new-tiger-territory)_‘ \[online\]. Guardian._
