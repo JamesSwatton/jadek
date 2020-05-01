@@ -34,3 +34,14 @@
             }
     })
 </script>
+
+<script>
+    $(document).ready(function() {
+        $('p img').each(function() {
+            const currentSrc = $(this).attr('src');
+            const newSrc = '{{ site.baseurl }}' + currentSrc;
+            console.log( newSrc );
+        });
+        console.log( $('p img').toArray() )
+    })
+</script>
