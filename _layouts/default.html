@@ -41,6 +41,7 @@
             const currentSrc = $(this).attr('src');
             const newSrc = '{{ site.baseurl }}' + currentSrc;
             console.log( newSrc );
+            $(this).attr('src', newSrc);
         });
         console.log( $('p img').toArray() )
     })
