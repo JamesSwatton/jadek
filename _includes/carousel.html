@@ -36,6 +36,6 @@
     $.each('{{ content_json }}'.match(/src="(.*)\.jpg"/g).map(path =>
         path.slice(5, path.length - 1)), function(i, val) {
             $(`#{{ carousel_id }}`).find('.carousel').append(`<div
-            class="carousel-cell"><img src="{{ site.baseurl }}${val}"></div>`)
+            class="carousel-cell"><img src="'{{ site.baseurl }}'${val}"></div>`)
         });
 </script>
