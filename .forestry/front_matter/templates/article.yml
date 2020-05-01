@@ -31,4 +31,5 @@ fields:
     maxSize: 64
   label: Background Image
 pages:
+- _photography/the-elephant-rhino-pavilion.md
 - _photography/the-penguin-pool.md
