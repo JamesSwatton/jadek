@@ -10,13 +10,17 @@ sections:
 - type: directory
   path: _photography
   label: Photography
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - article
 - type: directory
   path: _comics
   label: Comics
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - comic
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
