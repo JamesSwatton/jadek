@@ -14,3 +14,16 @@ fields:
   config:
     required: true
   label: Title
+- name: scroll-message
+  type: boolean
+  label: Scroll Message
+  description: Use to display a scrolling message under the nav bar
+- name: message
+  type: text
+  config:
+    required: false
+  label: Message
+  default: I'm a message
+  showOnly:
+    field: scroll-message
+    value: true
