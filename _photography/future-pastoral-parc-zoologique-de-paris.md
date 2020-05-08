@@ -5,8 +5,7 @@ title: Future Pastoral, Parc Zoologique de Paris
 background-image: "/assets/images/fp1.jpg"
 
 ---
-![](/assets/images/fp4.jpg)
-
+![](/assets/images/fp4.jpg)  
 In April 2014 Parc Zoologique de Paris was reopened after a six-year development period. The park is divided into five ‘ecosystems’, with species sharing enclosures where possible. The giant, vertical boulder, the manmade ‘Grand Rocher’, is the only part of the original site to remain after the refurbishment.
 
 ![](/assets/images/fp9.jpg)  
