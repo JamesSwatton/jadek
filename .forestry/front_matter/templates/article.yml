@@ -31,6 +31,7 @@ fields:
     maxSize: 64
   label: Background Image
 pages:
+- _photography/future-pastoral-parc-zoologique-de-paris.md
 - _photography/peacock-barcelona-zoo.md
 - _photography/the-elephant-rhino-pavilion.md
 - _photography/the-mappin-terraces-bear-mountain-london-zoo.md
