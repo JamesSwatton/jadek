@@ -1,21 +1,21 @@
 ---
 layout: article
 published-on: 05/05/2015
-title: The Elephant & Rhino Pavilion
+title: The Elephant & Rhino Pavilion, London Zoo
 background-image: "/assets/images/erp_06.jpg"
 
 ---
 ![](/assets/images/erp_01.jpg)
 
-Elephants are once exotic and familiar: they can be trained to give rides, perform and interact with people closely due to their mental capabilities. Originally London Zoo housed their elephants in a ‘whimsical’ cottage, and much later, in 1939, elephants were kept in Lubetkin’s relatively tiny Gorilla House. Before the practice was stopped in the early 1960s, elephants were exercised through giving rides to visitors. It was believed that ‘\[a\]n unreliable elephant is a most unproductive investment for any Zoological society’.
+Elephants are once exotic and familiar: they can be trained to give rides, perform and interact with people closely due to their mental capabilities. Originally London Zoo housed their elephants in a whimsical cottage, and much later, in 1939, elephants were kept in Lubetkin’s relatively tiny Gorilla House. Before the practice was stopped in the early 1960s, elephants were exercised through giving rides to visitors. It was believed that ‘\[a\]n unreliable elephant is a most unproductive investment for any Zoological society’.
 
-A new home was built as part of 1958’s ‘New Zoo’ redevelopment plan. The Elephant & Rhino Pavilion, or Casson Pavilion, 'seemed to attempt to create an idea or abstraction of “nature” without resembling anything that could actually be seen _in_ nature': its most distinctive design feature was the green copper silos which rise ‘like a clump of pachyderms with their heads together’. The rough concrete coating of the building resembles an elephant’s skin and is tough enough to ‘prevent the animals from damaging the fabric’.
+A new home was built as part of 1958’s ‘New Zoo’ redevelopment plan. The Elephant & Rhino Pavilion, or Casson Pavilion, 'seemed to attempt to create an idea or abstraction of “nature” without resembling anything that could actually be seen _in_ nature': its most distinctive design feature was the green copper silos which rise ‘like a clump of pachyderms with their heads together’. The rough concrete coating of the building resembles an elephant’s skin and is tough enough to prevent the animals from damaging the fabric.
 
 ![](/assets/images/erp_02.jpg)
 
-Despite winning the 1965 RIBA ‘Best Building in London’ award, the Pavilion faced a multitude of criticisms. Hancocks noted economic cuts resulted in diminished paddocks ‘at the expense of the animals’ needs’, rather than the height of the building being curtailed. The tall space also ‘reputedly causes swirls of damp air’. Casson himself noted zoo enclosure plants are often destroyed or eaten, or harbour parasites. He also noted that elephants: ‘behave in certain ways which make them not the easiest creature to deal with – they can even pick locks with their trunks. Everything must be out of their reach’. 
+Despite winning the 1965 RIBA ‘Best Building in London’ award, the Pavilion faced a multitude of criticisms. Hancocks noted economic cuts resulted in diminished paddocks at the expense of the animals’ needs, rather than the height of the building being curtailed. The tall space also reputedly causes swirls of damp air. Casson himself noted zoo enclosure plants are often destroyed or eaten, or harbour parasites. He also noted that elephants: ‘behave in certain ways which make them not the easiest creature to deal with – they can even pick locks with their trunks. Everything must be out of their reach’.
 
-Early images of the Pavilion show a bare, grey-brown yard. The Pavilion had a pool but the elephants did not make use of it until public feeding had been banned in 1968. Barrington-Johnson indicates an original pool was not big enough for adult elephants, and so a larger one was built. The paddock moat filled with detritus even after the public ban on feeding. The elephants’ own food had to be kept in the basement of the Pavilion and inconveniently ‘hoisted’ upward. Overall it appears ‘the space for visitors far exceeds the narrow nooks created for the immense creatures’.
+Early images of the Pavilion show a bare, grey-brown yard. The Pavilion had a pool but the elephants did not make use of it until public feeding had been banned in 1968. Barrington-Johnson indicates an original pool was not big enough for adult elephants, and so a larger one was built. The paddock moat filled with detritus even after the public ban on feeding. The elephants’ own food had to be kept in the basement of the Pavilion and inconveniently hoisted upward. Overall it appears ‘the space for visitors far exceeds the narrow nooks created for the immense creatures’.
 
 ![](/assets/images/erp_03.jpg)
 
