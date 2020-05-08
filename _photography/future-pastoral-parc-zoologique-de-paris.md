@@ -3,7 +3,6 @@ layout: article
 published-on: 04/12/2014
 title: Future Pastoral, Parc Zoologique de Paris
 background-image: "/assets/images/fp1.jpg"
-published: false
 
 ---
 ![](/assets/images/fp1.jpg)
