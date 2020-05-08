@@ -2,7 +2,7 @@
 layout: article
 published-on: 18/04/2015
 title: The Mappin Terraces ('Bear Mountain'), London Zoo
-background-image: "/assets/images/mt_06.jpg"
+background-image: "/assets/images/p8.jpg"
 
 ---
 ![](/assets/images/mt_05.jpg)
