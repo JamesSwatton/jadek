@@ -3,7 +3,6 @@ layout: article
 published-on: 04/02/2014
 title: Vibrant Material
 background-image: "/assets/images/vibrant6.jpg"
-published: false
 
 ---
 People are separated from nature through building material culture in the form of the city, which excludes uncontrollable natural elements in order to maintain itself. 
