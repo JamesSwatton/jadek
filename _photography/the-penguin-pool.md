@@ -1,7 +1,7 @@
 ---
 layout: article
 published-on: 25/04/2015
-title: The Penguin Pool
+title: The Penguin Pool, London Zoo
 background-image: "/assets/images/pp_04.jpg"
 
 ---
