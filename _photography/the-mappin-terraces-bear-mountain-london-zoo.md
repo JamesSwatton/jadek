@@ -17,7 +17,7 @@ The Mappin Terraces, a quadrant of tiered hills, were built using concrete durin
 
 Initially, the Terraces were criticised for their stark appearance and in an attempt to soften it, porridge was poured over the concrete to encourage the growth of lichens. The bears were a popular exhibit: described as ‘irresistibly comic’ when begging and catching food. Polar bear cubs were successfully born and reared: the young cub Pipaluk became the inspiration for a hugely popular toy. Polar bears arguably do not do well in captivity: a 1986 report indicated that most displayed stereotypic behaviour.
 
-![](/assets/images/mt_02.jpg)
+![](/assets/images/p4.jpg)
 
 Pipaluk was sent away to Poland in 1985, and the Terraces faced a refurbishment. Simpson reported in 2008 that they had ‘undergone a dramatic transformation to become the site of one of the first climate change educational centres in UK zoos’. The Mappin Terraces reopened as an Australian Outback exhibit, with wallabies and emus. Red kangaroos were later added.
 
@@ -27,7 +27,7 @@ Today, slate spikes are no longer on the rim of the Terraces, and the mid-sectio
 
 I found the Mappin Terraces to be a more peaceful area of the zoo, as people are kept in one place, overlooking the panorama from the bottom, as the corridors between terraces are no longer there or closed to the public. This results in a few dead ends for inquisitive visitors. The wallabies, emus and kangaroos surround the viewer on their wide panorama, and can wander back and forth.
 
-![](/assets/images/mt_01.jpg)
+![](/assets/images/p5.jpg)
 
 _British Pathé, 1968. ‘_[_Polar Bears_](http://www.britishpathe.com/video/polar-bears)_‘ \[online\].  
 Edwards, John, 1996. London Zoo from Old Photographs 1852–1914. London: John Edwards.  
