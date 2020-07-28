@@ -11,6 +11,6 @@ I've worked as an editor in the arts for over a decade, and can also proofread a
 
 Always keen to talk collaborations or opportunities.
 
-Say hello at jadeaudreyking\[@\]gmail.com
+Get in touch at jadeaudreyking\[@\]gmail.com
 
-Thanks
+Thanks and goodbye
