@@ -4,16 +4,16 @@ title: Weird Canteen Zine
 published: false
 
 ---
-Hello
+**Weird Canteen is a zine about the strange side of food.**   
+  
+Seeking writing, comics, illustrations, poetry, photos, collage, interviews, reviews, recipes, problems, confessions: anything funny, strange or interesting.   
+  
+Profits go to charity.
 
-I'm Jade, from Portsmouth, based in London.
+## Submissions
 
-I like drawing, painting, and self-publishing **zines** and **comics**. Favourite subjects: food, under the sea, cryptozoology, body horror.
+Size A4, portrait-orientation, colour or black and white. Email [weirdcanteen@gmail.com](mailto:weirdcanteen@gmail.com) with submissions or questions.
 
-Always keen to talk collaborations or opportunities.
+## Got a secret?
 
-I've also worked as an **editor** in the arts for over a decade and can **proofread** and **copy edit** your stuff. Email to enquire about my budget-friendly rates.
-
-Get in touch at jadeaudreyking\[@\]gmail.com
-
-Thanks and goodbye
+Unburden yourself by telling Weird Canteen all your strange food secrets, lies, delusions, tall tales and sickening stories. Totally anonymous, just fill in the form: [bit.ly/canteensecrets](http://www.bit.ly/canteensecrets)
