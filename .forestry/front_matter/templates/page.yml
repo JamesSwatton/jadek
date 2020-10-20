@@ -27,3 +27,5 @@ fields:
   showOnly:
     field: scroll-message
     value: true
+pages:
+- weird-canteen-zine.md
