@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Weird Canteen Zine
-published: false
 
 ---
 **Weird Canteen is a zine about the strange side of food.**   
