@@ -3,7 +3,6 @@ layout: defualt
 message: WEIRD CANTEEN ZINE
 title: Weird Canteen Zine
 scroll-message: true
-published: false
 
 ---
 Weird Canteen is a zine about the strange side of food.   
