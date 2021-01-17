@@ -7,7 +7,7 @@ Hello
 
 I'm Jade, from Portsmouth, based in London.
 
-I like drawing, painting, and self-publishing **zines** and **comics**. Favourite subjects: food, under the sea, cryptozoology, body horror.
+I like drawing, painting, and self-publishing **zines** and **comics**. Favourite subjects: food, nature, under the sea, cryptozoology, body horror.
 
 Always keen to talk collaborations or opportunities.
 
