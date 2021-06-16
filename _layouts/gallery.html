@@ -13,6 +13,7 @@ layout: default
 <script>
     $(document).ready(function() {
         const paths = '{{ page.images }}';
+        console.log(paths);
         const newPaths = paths.split("jpg")
             .filter(path => path !== '')
             .map(path => '{{ site.baseurl }}' + path + 'jpg');
