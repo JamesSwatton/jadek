@@ -78,7 +78,7 @@ main {
 /* Nav */
 
 // .navigation {
-//     height: $nav-height; 
+//     height: $nav-height;
 //     position: fixed;
 //     top: 0;
 //     left: 0;
@@ -286,9 +286,9 @@ nav {
         box-shadow: 0px 0px 0px lightgray;
         margin-top: $padding-1;
         margin-bottom: $padding-1 * 3;
-        transition: top 0.1s, 
+        transition: top 0.1s,
                     box-shadow 0.1s,
-                    width 0.1s, 
+                    width 0.1s,
                     height 0.1s,
                     margin-bottom 0.1s;
         &:hover {
@@ -323,7 +323,7 @@ nav {
                     img {
                         position: absolute;
                         top: 0; left: 0;
-                        width: 100%; 
+                        width: 100%;
                         height: 100%;
                         object-fit: cover;
                     }
@@ -461,7 +461,7 @@ nav {
         margin: 0;
         padding: 0;
     }
-} 
+}
 
 @media only screen and (max-width: $breakpoint) {
     .carousel-container {
@@ -485,7 +485,7 @@ nav {
         font-size: 0.8rem;
         .read-more {
             p {
-                font-size: 1rem; 
+                font-size: 1rem;
                 border-bottom: 2px solid $link-color;
             }
         }
@@ -614,7 +614,7 @@ nav {
     max-width: 100%;
   }
   #gallery-container img {
-      padding: 0; 
+      padding: 0;
   }
 }
 
@@ -626,7 +626,7 @@ nav {
     background-color: #0f1219;
     color: white;
     position: fixed;
-    top: 0; 
+    top: 0;
     left: 0;
     margin-top: $nav-height;
     width: 2000px;
@@ -647,7 +647,7 @@ nav {
             align-items: center;
             height: 100%;
             padding-bottom: 5px;
-            // font-family: $font-style; 
+            // font-family: $font-style;
             font-size: $nav-height;
             white-space: nowrap;
             float: left;
@@ -667,50 +667,50 @@ nav {
         position: relative;
         perspective: 2000px;
         img {
-            height: 100%; 
+            height: 100%;
             // width: 100%;
         width: calc(600px / 1.414);
         }
-        img, 
-        .text {
-            backface-visibility: hidden;
-            transition: transform 2s;
-        }
-        &:hover img {
-            transform: rotateY(180deg);
-        }
-        &:hover div {
-            transform: rotateY(360deg);
-        }
-        .text {
-            h1,
-            h2,
-            h3 {
-                display: inline;
-                background-color: white;
-            }
-            p {
-                font-size: 16px;
-                padding: 20px;
-            }
-            a {
-                color: white;
-                &:hover {
-                    color: #0f1219;
-                    background-color: white;
-                }
-            }
-            background-color: #0f1219;
-            color: white;
-            position: absolute;
-            top: 0;
-            width: calc(600px / 1.414);
-            height: 100%;
-            z-index: 1;
-            padding-top: 16px;
+        // img,
+        // .text {
+        //     backface-visibility: hidden;
+        //     transition: transform 2s;
+        // }
+        // &:hover img {
+        //     transform: rotateY(180deg);
+        // }
+        // &:hover div {
+        //     transform: rotateY(360deg);
+        // }
+        // .text {
+        //     h1,
+        //     h2,
+        //     h3 {
+        //         display: inline;
+        //         background-color: white;
+        //     }
+        //     p {
+        //         font-size: 16px;
+        //         padding: 20px;
+        //     }
+        //     a {
+        //         color: white;
+        //         &:hover {
+        //             color: #0f1219;
+        //             background-color: white;
+        //         }
+        //     }
+        //     background-color: #0f1219;
+        //     color: white;
+        //     position: absolute;
+        //     top: 0;
+        //     width: calc(600px / 1.414);
+        //     height: 100%;
+        //     z-index: 1;
+        //     padding-top: 16px;
 
-            transform: rotateY(180deg);
-        }
+        //     transform: rotateY(180deg);
+        // }
     }
     .buy-and-description {
         width: calc(($cotent-width - (600px / 1.414)));
@@ -729,9 +729,9 @@ nav {
                 transform: rotate(-19deg);
                 height: 150px;
                 width: 150px;
-                transition: top 0.1s, 
+                transition: top 0.1s,
                 left 0.1s,
-                width 0.1s, 
+                width 0.1s,
                 height 0.1s;
                 &:hover {
                     top: -4px;
@@ -769,7 +769,10 @@ nav {
     .zine-container {
         display: none;
     }
+    .submissions {
+        display: none;
+    }
     .zine-container-mobile {
         display: block;
     }
-} 
+}
