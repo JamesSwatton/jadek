@@ -17,7 +17,7 @@ Submissions welcome!
 
 ## Submissions
 
-Size A4, portrait-orientation, colour or black and white. Email [weirdcanteen@gmail.com](mailto:weirdcanteen@gmail.com) with submissions or questions.
+Size A4, portrait orientation, colour or black and white. Email [weirdcanteen@gmail.com](mailto:weirdcanteen@gmail.com) with submissions or questions.
 
 ## Got a secret?
 
