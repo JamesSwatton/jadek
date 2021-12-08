@@ -2,6 +2,7 @@
 layout: gallery
 title: Drawings
 images:
+- "/assets/images/midnight-feast.jpg"
 - "/assets/images/tina_weeds.jpg"
 - "/assets/images/chew-food-square.jpg"
 - "/assets/images/d411d1db-7410-4d72-9382-54459f9480b7.jpg"
